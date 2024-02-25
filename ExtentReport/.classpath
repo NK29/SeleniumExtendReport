@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/selenium-java-4.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/selenium-server-4.16.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/bson-5.0.0-beta0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/freemarker-ext-0.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/freemarker-2.3.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/selenium-devtools-v121-4.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/htmlunit-driver-2.33.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karth/Documents/Naveen Kumar S/Driver/freemarker-2.3.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
